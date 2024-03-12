@@ -21,7 +21,6 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'cv', link: 'https://instagram.com/paululele'}
 - {icon: 'github',    link: 'https://github.com/Hturbo312'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/jiali-wang-47b0ba2ba/'}
 - {icon: 'envelope',  link: 'mailto:mailto:wjl20010702@163.com'}
