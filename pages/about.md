@@ -4,37 +4,28 @@ title: About
 permalink: /about
 ---
 
-### Jial Wang  王佳丽
-
-# Contact Information
-- **Location**: Your City, Your State
-- **Phone**: (Your Phone Number)
-- **Email**: [Your Email](mailto:youremail@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
-
-# Summary
-A brief paragraph about you, your professional interests, and what you're looking for in your next role.
-
-# Skills
+## 王佳丽 Jial Wang 
+- **地址 Location**: 北京 清华大学 Beijing Tsinghua University
+- **电话 Phone**: (+86)18811722967
+- **邮箱 Email**: wjl20010702@163.com
+- **领英 LinkedIn**: https://www.linkedin.com/in/jiali-wang-47b0ba2ba/
+- **GitHub**: https://github.com/Hturbo312
+## Summary
+2008年感动中国人物 2008 Touching China Person of the Year
+## Skills
 - **Languages**: Python, JavaScript, C++
 - **Frameworks**: React, Node.js, .NET
 - **Tools**: Git, Docker, Jenkins
-
-# Professional Experience
-
+## Professional Experience
 ## Company Name - Job Title *(Month Year - Month Year)*
 - Responsibility/achievement 1
 - Responsibility/achievement 2
 - Responsibility/achievement 3
-
-### Previous Company Name - Previous Job Title *(Month Year - Month Year)*
+# Previous Company Name - Previous Job Title *(Month Year - Month Year)*
 - Responsibility/achievement 1
 - Responsibility/achievement 2
 - Responsibility/achievement 3
-
 ## Education
-
 ### University Name - Degree *(Month Year - Month Year)*
 - Bullet point 1 (Could include honors, thesis, etc.)
 - Bullet point 2 (Relevant coursework, activities, etc.)
