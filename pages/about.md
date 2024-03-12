@@ -4,29 +4,26 @@ title: About
 permalink: /about
 ---
 
-# Jial Wang  王佳丽
+### Jial Wang  王佳丽
 
-
-# Your Name
-
-## Contact Information
+# Contact Information
 - **Location**: Your City, Your State
 - **Phone**: (Your Phone Number)
 - **Email**: [Your Email](mailto:youremail@example.com)
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
 - **GitHub**: [Your GitHub](https://github.com/yourusername)
 
-## Summary
+# Summary
 A brief paragraph about you, your professional interests, and what you're looking for in your next role.
 
-## Skills
+# Skills
 - **Languages**: Python, JavaScript, C++
 - **Frameworks**: React, Node.js, .NET
 - **Tools**: Git, Docker, Jenkins
 
-## Professional Experience
+# Professional Experience
 
-### Company Name - Job Title *(Month Year - Month Year)*
+## Company Name - Job Title *(Month Year - Month Year)*
 - Responsibility/achievement 1
 - Responsibility/achievement 2
 - Responsibility/achievement 3
